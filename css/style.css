@@ -1,3 +1,15 @@
 *{
     margin: 40px;
 }
+
+h1{
+    text-align: center;
+    color: #ff0505;
+    font-size: 40px;
+}
+
+p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
